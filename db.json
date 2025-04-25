@@ -3,7 +3,10 @@
     {
       "id": "1",
       "title": "HIe bro",
-      "content": "This is my frst note after some major changes now it is updated"
+      "content": "This is my frst note after some major changes now it is updated",
+      "date": 23,
+      "mnth": 4,
+      "yr": 2025
     },
     {
       "id": "2",
